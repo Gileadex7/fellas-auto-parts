@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5d77a"/>
+      <stop offset="60%" stop-color="#d4a93f"/>
+      <stop offset="100%" stop-color="#a8853a"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3aa15f"/>
+      <stop offset="100%" stop-color="#1a5c42"/>
+    </linearGradient>
+  </defs>
+  <!-- F letterform -->
+  <path d="M22 12 L22 70 L31 70 L31 46 L52 46 L52 38 L31 38 L31 20 L62 20 L62 12 Z" fill="url(#gold)"/>
+  <!-- Green leaf accent -->
+  <path d="M47 36 Q66 42 60 64 Q52 56 43 48 Z" fill="url(#leaf)"/>
+</svg>
